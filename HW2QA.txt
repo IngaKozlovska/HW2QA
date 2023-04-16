@@ -1,0 +1,37 @@
+				-1-
+1. Open URL https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2. Click on the button Bank Manager Login
+3. Click on the button Add Customer
+4. Fill "Fiest name"
+5. Fill "Last name"
+6. Fill "Post Code"
+7. Click on the button Add Customer
+
+Appear massage: www.globalsqa.com says Customer added successfully with customer id:11
+
+8. Click OK
+
+Expected result: Customer added
+
+				-2-
+1. Open URL https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2. Click on the button Bank Manager Login
+3. Choose Custom name in the field Customer
+4. Choose Currency in the field Currensy 
+5. Press Process
+
+Expected result: 
+Appear Account Number
+
+				-3-
+1. Open URL https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+2. Click on the button Bank Manager Login
+3. Click Customer
+4. In the field Serch Customer fill Name
+
+Expected result:
+Appear the table with information First Name, Last Name, Post Code, Account Number
+
+
+
+
